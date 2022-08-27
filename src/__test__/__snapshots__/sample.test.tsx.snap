@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample test jsx Should be the component rendered here 1`] = `
+<div>
+  Sample
+</div>
+`;
